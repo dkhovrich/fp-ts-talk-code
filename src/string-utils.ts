@@ -1,0 +1,1 @@
+export const valueToString = (value: number): string => `Value: ${value}`;
