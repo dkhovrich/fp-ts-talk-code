@@ -1,0 +1,34 @@
+{
+  "name": "fp-ts-talk-code",
+  "version": "1.0.0",
+  "description": "Примеры кода для доклада по fp-ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkhovrich/fp-ts-talk-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkhovrich/fp-ts-talk-code/issues"
+  },
+  "homepage": "https://github.com/dkhovrich/fp-ts-talk-code#readme",
+  "dependencies": {
+    "fp-ts": "^2.11.5",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.0",
+    "ts-node": "^10.4.0"
+  },
+  "prettier": {
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": false
+  }
+}
