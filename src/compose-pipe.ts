@@ -1,5 +1,5 @@
 import {pipe} from "fp-ts/function";
-import {sum, multiply} from "./curry-functions";
+import {multiply, sum} from "./curry-functions";
 import {valueToString} from "./string-utils";
 
 const value = 2;

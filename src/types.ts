@@ -1,4 +1,4 @@
-export type UserId = number;
+export type UserId = string;
 
 export type User = {
     readonly id: UserId;
@@ -10,7 +10,6 @@ export type User = {
 export type CommentId = number;
 
 export type Comment = {
-    readonly id: CommentId;
     readonly userId: UserId;
     readonly text: string;
 }

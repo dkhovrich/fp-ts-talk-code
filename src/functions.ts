@@ -7,6 +7,8 @@ export const subtract = (a: number, b: number): number => a - b;
 
 export const divide = (a: number, b: number): number => a / b;
 
+const dateToString = (date: Date): string => date.toDateString();
+
 // Impure
 const getCurrentDateIso = (): string => new Date().toISOString();
 
@@ -28,5 +30,3 @@ const renderString = (selector: string, value: string): void => {
         element.innerHTML = value;
     }
 };
-
-export {};

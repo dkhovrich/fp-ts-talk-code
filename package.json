@@ -19,9 +19,11 @@
   "homepage": "https://github.com/dkhovrich/fp-ts-talk-code#readme",
   "dependencies": {
     "fp-ts": "^2.11.5",
-    "typescript": "^4.5.2"
+    "typescript": "^4.5.2",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
+    "@types/uuid": "^8.3.3",
     "prettier": "^2.5.0",
     "ts-node": "^10.4.0"
   },
