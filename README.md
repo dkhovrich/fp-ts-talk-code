@@ -7,7 +7,9 @@ https://gcanti.github.io/fp-ts/
 # Список литературы
 ## Книги
 - [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide-ru/blob/master/SUMMARY-ru.md "Professor Frisby’s Mostly Adequate Guide to Functional Programming")
-
+## Спецификация
+- [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land "Fantasy Land Specification")
+- [Fantas, Eel, and Specification](http://www.tomharding.me/fantasy-land/ "Fantas, Eel, and Specification")
 ## Туториалы
 ### Функциональное программирование на TypeScript
 - [Функциональное программирование на TypeScript: полиморфизм родов высших порядков](https://habr.com/ru/post/526024/ "Функциональное программирование на TypeScript: полиморфизм родов высших порядков")
