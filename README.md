@@ -36,5 +36,6 @@ https://gcanti.github.io/fp-ts/
 ## TypeScript
 - [TypeScript: Раскладываем tsconfig по полочкам. Часть 1](https://habr.com/ru/post/542234/ "TypeScript: Раскладываем tsconfig по полочкам. Часть 1")
 - [TypeScript: Раскладываем tsconfig по полочкам. Часть 2 — Всё про строгость](https://habr.com/ru/post/557738/ "TypeScript: Раскладываем tsconfig по полочкам. Часть 2 — Всё про строгость")
+- [Discriminated Unions](https://basarat.gitbook.io/typescript/type-system/discriminated-unions "Discriminated Unions")
 ## ESLint
 - [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional "eslint-plugin-functional")
