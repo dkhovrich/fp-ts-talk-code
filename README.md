@@ -33,3 +33,8 @@ https://gcanti.github.io/fp-ts/
 - [Practical Guide to Fp-ts P4: Arrays, Semigroups, Monoids](https://rlee.dev/practical-guide-to-fp-ts-part-4 "Practical Guide to Fp-ts P4: Arrays, Semigroups, Monoids")
 - [Practical Guide to Fp-ts P5: Apply, Sequences, and Traversals](https://rlee.dev/practical-guide-to-fp-ts-part-5 "Practical Guide to Fp-ts P5: Apply, Sequences, and Traversals")
 - [Practical Guide to Fp-ts P6: The Do Notation](https://rlee.dev/practical-guide-to-fp-ts-p6-the-do-notation "Practical Guide to Fp-ts P6: The Do Notation")
+## TypeScript
+- [TypeScript: Раскладываем tsconfig по полочкам. Часть 1](https://habr.com/ru/post/542234/ "TypeScript: Раскладываем tsconfig по полочкам. Часть 1")
+- [TypeScript: Раскладываем tsconfig по полочкам. Часть 2 — Всё про строгость](https://habr.com/ru/post/557738/ "TypeScript: Раскладываем tsconfig по полочкам. Часть 2 — Всё про строгость")
+## ESLint
+- [eslint-plugin-functional](https://github.com/jonaskello/eslint-plugin-functional "eslint-plugin-functional")
