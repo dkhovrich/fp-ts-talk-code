@@ -1,6 +1,9 @@
 # fp-ts-talk-code
 Примеры кода для доклада по fp-ts
 
+#Доклада
+[Функциональное программирование с использованием библиотеки fp-ts | Odessa Frontend Meetup #19] (https://youtu.be/LoeV7yeItkk "Функциональное программирование с использованием библиотеки fp-ts | Odessa Frontend Meetup #19")
+
 # Документация
 https://gcanti.github.io/fp-ts/
 
